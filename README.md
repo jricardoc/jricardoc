@@ -10,7 +10,7 @@ Olá!
 
 <p align="center">
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklamego&hide=html&layout=compact&theme=tokyonight" />
-  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=dereklamego&theme=tokyonight&show_icons=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jricardoc&hide=html&layout=compact&theme=tokyonight" />
+  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=jricardoc&theme=tokyonight&show_icons=true" />
   
 </p>
