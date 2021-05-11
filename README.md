@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu Github! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jricardoc/)](https://www.linkedin.com/in/jricardoc/)  [![Gmail Badge](https://img.shields.io/badge/gmail--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:ricardoocarvalhoo10@gmail.com)](mailto:ricardoocarvalhoo10@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jricardoc/)](https://www.linkedin.com/in/jricardoc/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardoocarvalhoo10@gmail.com)](mailto:ricardoocarvalhoo10@gmail.com/)
 
 <p align="center">
   <img src="https://github.com/jricardoc/jricardoc/blob/main/jricardoc.jpg" width="350" title="hover text">
