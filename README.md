@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu Github! 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/jricardoc/)  [![Gmail Badge](ricardoocarvalhoo10@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jricardoc/)  [![Gmail Badge](ricardoocarvalhoo10@gmail.com)
 
 <p align="center">
   <img src="https://github.com/jricardoc/jricardoc/blob/main/laptops.png" width="350" title="hover text">
