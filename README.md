@@ -6,7 +6,10 @@
   <img src="https://github.com/jricardoc/jricardoc/blob/main/jricardoc.jpg" width="350" title="hover text">
 </p>
 
-Olá!
+Sou estudante de Programação cursando o último semestre em Técnico em Desenvolvimento de Sistemas.
+Atualmente trabalho como Jovem Aprendiz na CCR Metrô Bahia.
+
+Faço parte de uma Startup chamada Panjay, na qual desenvolvo o papel de Frontend.
 
 <p align="center">
   
