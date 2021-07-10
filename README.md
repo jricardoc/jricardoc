@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jricardoc/)](https://www.linkedin.com/in/jricardoc/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardoocarvalhoo10@gmail.com)](mailto:ricardoocarvalhoo10@gmail.com/)
 
+<div>
 <p align="center">
   <img src="https://github.com/jricardoc/jricardoc/blob/main/jricardoc.jpg" width="350" title="hover text">
 </p>
@@ -17,3 +18,5 @@ Faço parte de uma Startup chamada Panjay, na qual desenvolvo o papel de Fronten
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=jricardoc&theme=tokyonight&show_icons=true" />
   
 </p>
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+</div>
