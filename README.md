@@ -18,5 +18,5 @@ Faço parte de uma Startup chamada Panjay, na qual desenvolvo o papel de Fronten
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=jricardoc&theme=tokyonight&show_icons=true" />
   
 </p>
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jricardoc/jricardoc/blob/output/github-contribution-grid-snake.svg)
 </div>
