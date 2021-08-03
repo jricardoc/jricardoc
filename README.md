@@ -1,10 +1,5 @@
 ### Olá, seja bem-vindo(a) ao meu Github! 👋
 
-<div>
-<p align="center">
-  <img src="https://github.com/jricardoc/jricardoc/blob/main/jricardoc.jpg" width="350" title="hover text">
-</p>
-
 Sou estudante de Programação cursando o último semestre em Técnico em Desenvolvimento de Sistemas.
 Atualmente trabalho como Jovem Aprendiz na CCR Metrô Bahia.
 
