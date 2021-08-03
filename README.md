@@ -1,7 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu Github! 👋
 
-Sou estudante de Programação cursando o último semestre em Técnico em Desenvolvimento de Sistemas.
-Atualmente trabalho como Jovem Aprendiz na CCR Metrô Bahia.
+Sou Técnico em Desenvolvimento de Sistemas atualmente estudando React Native pela Rocketseat.
 
 Faço parte de uma Startup chamada Panjay, na qual desenvolvo o papel de Frontend.
   
