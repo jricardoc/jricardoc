@@ -18,3 +18,9 @@ Faço parte de uma Startup chamada Panjay, na qual desenvolvo o papel de Fronten
   <img width="478px" src="https://github-readme-stats.vercel.app/api?username=jricardoc&theme=tokyonight&show_icons=true" />
   
 </p>
+  
+ <div>
+  <a href="https://github.com/jricardoc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jricardoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jricardoc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
