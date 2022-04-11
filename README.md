@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a) ao meu Github! 👋
+### Hi, welcome to my Github! 👋
 
 I'm a Systems Development Technician, I'm part of a Startup called Panjay, in which I develop the Front-end role
 
