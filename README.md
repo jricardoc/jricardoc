@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo(a) ao meu Github! 👋
 
-Sou Técnico em Desenvolvimento de Sistemas atualmente estudando React Native pela Rocketseat.
+I'm a Systems Development Technician, I'm part of a Startup called Panjay, in which I develop the Front-end role
 
-Faço parte de uma Startup chamada Panjay, na qual desenvolvo o papel de Frontend.
+FI'm currently specializing in Application Development with React Native at Rocketseat.
   
  <div>
   <a href="https://github.com/jricardoc">
