@@ -1,8 +1,6 @@
-### Hi, welcome to my Github! 👋
+### Olá! Me chamo Ricardo. 👋
 
-I'm a Systems Development Technician, I'm part of a Startup called Panjay, in which I develop the Front-end role.
-
-I'm currently specializing in Application Development with React Native at Rocketseat.
+Sou desenvolvedor Front-end Web e Mobile com React/React Native. Tenho 24 anos e estudo sobre programação a mais de 4 anos. Na minha trajetória já desenvolvi diversos sites e Apps, o que me deixa cada vez mais confiante do meu conhecimento. 
   
  <div align="center">
    <a href="https://github.com/jricardoc">
@@ -27,7 +25,6 @@ I'm currently specializing in Application Development with React Native at Rocke
  	<a href="https://www.twitch.tv/jricardo_c" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ricardoocarvalhoo10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jricardoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/jricardoc/jricardoc/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
