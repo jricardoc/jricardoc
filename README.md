@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Front-end Web e Mobile com React/React Native. Tenho 24 anos e estudo sobre programação a mais de 4 anos. Na minha trajetória já desenvolvi diversos sites e Apps, o que me deixa cada vez mais confiante do meu conhecimento. 
   
- <div align="center">
+ <div>
    <a href="https://github.com/jricardoc">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jricardoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jricardoc&layout=compact&langs_count=7&theme=tokyonight"/>
