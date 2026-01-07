@@ -1,46 +1,32 @@
-<img src="https://user-images.githubusercontent.com/73763375/232349813-548e9c47-52dc-45bc-ba62-18fc7756eb9d.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/73763375/232349813-548e9c47-52dc-45bc-ba62-18fc7756eb9d.png" min-width="400px" max-width="400px" width="400px" align="right" >
 
-<p align="left">
-  <h2 align="left">Olá! Me chamo Ricardo. 👋</h2>
-  <h3 align="left">Fundador da RICCS | Full Stack Developer</h3>
+<p align="left"> 
+
+Como Desenvolvedor Full Stack e Fundador da RICCS, meu foco é criar soluções digitais completas e de alta performance. Com 27 anos, tenho experiência sólida transformando ideias em sistemas robustos, utilizando tecnologias modernas para atender demandas complexas de forma escalável.
+
+Com uma base técnica forte em React, Node.js, PHP e infraestrutura (Docker), sou apaixonado por desenvolver desde sites institucionais até sistemas complexos. Estou sempre pronto para enfrentar novos desafios, garantindo a entrega de produtos otimizados e seguros para meus clientes.
+
 </p>
 
-<p align="left">
-  Sou um desenvolvedor apaixonado por transformar ideias complexas em software de alta performance. Com 27 anos e uma trajetória sólida, sou <strong>Fundador da RICCS</strong> (desde set/2025), onde atuo na arquitetura e desenvolvimento de soluções digitais completas.
-  <br><br>
-  Minha experiência inclui mais de 2 anos na <em>IWWA Agência Digital</em>, e hoje combino a fluidez do <strong>Front-end</strong> (React/Native) com a robustez do <strong>Back-end</strong> (Node/Docker) para criar aplicações escaláveis e modernas.
-</p>
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jricardoc&theme=dracula)](https://github.com/jricardoc) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jricardoc&theme=dracula)](https://github.com/jricardoc) |  
+ | ----------- | ----------- |
 
-<br>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jricardoc&theme=dracula&utcOffset=-3)](https://github.com/jricardoc) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jricardoc&theme=dracula)](https://github.com/jricardoc) |  
+ | ----------- | ----------- |
 
-| [![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jricardoc&theme=tokyonight)](https://github.com/jricardoc) | [![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jricardoc&theme=tokyonight)](https://github.com/jricardoc) |
-| :---: | :---: |
-| [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jricardoc&theme=tokyonight&utcOffset=-3)](https://github.com/jricardoc) | [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jricardoc&theme=tokyonight)](https://github.com/jricardoc) |
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,nodejs,php,wordpress,mysql,docker,linux,vite,git,vscode)](https://skillicons.dev)
 
-<br>
+<h3> Contatos </h3>
 
-<h3 align="left">🛠️ Tech Stack</h3>
+ <p align="left">
+ 
+  <a href="https://www.linkedin.com/in/jricardoc/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+  
+   <a href="mailto:ricardoocarvalhoo10@gmail.com" alt="Gmail">
+        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,docker,postgres,linux,vite,git,vscode,github&theme=dark" />
-  </a>
-</div>
-
-<br>
-
-<h3 align="left">📫 Contatos</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jricardoc/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/jricardo_c" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:ricardoocarvalhoo10@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<hr>
+  <a href="https://instagram.com/jricardo_c" alt="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
+</p>  
+      <hr>
